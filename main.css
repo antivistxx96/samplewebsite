@@ -1,0 +1,13 @@
+body{
+    /* background:linear-gradient(50deg,#FF6CAB,#7366FF); */
+    background:url(https://www.cnet.com/a/img/7dSW3DN2DVY5SNAAITRIxFJGNpM=/940x0/2018/02/23/77cc4dfc-e706-4c35-b6eb-81121839952d/dogecoin-thumbnail.jpg);
+}
+
+.container{
+    margin:45pt;
+    position: sticky;
+    background-color: white;
+    opacity: 50%;
+    border-radius: 50%;
+    padding: 10em;
+}
